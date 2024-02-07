@@ -1,16 +1,15 @@
 import React from "react";
-import productDetails from "../components/productDetails";
-import { useSelector } from "react-redux";
 import Product from "../components/Product";
 import Header from "../components/Header";
+import CartItems from "../components/CartItems";
 
 function CartDetails() {
-  const cartItems = useSelector((state) => state.cart.itemsList);
+
 
   return (
     <>
-      <Header />
-      <h1 className="flex">Your Cart</h1>
+        <Header />
+        <CartItems />;
     </>
   );
 }

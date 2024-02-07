@@ -26,7 +26,7 @@ const productDetails = [
   },
   {
     id: 3,
-    pName: "dinning",
+    pName: "Dinning Table",
     imgdata: dinning,
     price: 30,
     rating: "3.8",

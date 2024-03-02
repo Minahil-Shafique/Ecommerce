@@ -1,6 +1,6 @@
 # Ecommerce Store
 
-This is an shop application built using React and Redux for state management. It allows users to browse products, add them to the cart, and view cart details.
+This is an ecommerce application built using React and Redux for state management. It allows users to browse products, add them to the cart, and view cart details.
 
 ## Features
 
